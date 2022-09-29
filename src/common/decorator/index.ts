@@ -1,0 +1,1 @@
+export { OriginApp } from './Origin-app.decorator'
